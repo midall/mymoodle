@@ -1,4 +1,4 @@
-# MyMOODLE
+# MyMOODLE Project
 
 ## Description
 Just testing moodle installation. Nothing to see here!
